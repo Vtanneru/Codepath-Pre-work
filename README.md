@@ -38,16 +38,17 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[Yes, i used some websites to check for th fonts and also implementaion errors to be make clear links are: https://developer.mozilla.org/en-US/docs/Web/CSS/font-family
+and for help in java script i used :https://developer.mozilla.org/en-US/docs/Web/JavaScript]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[While i was about to implement the images instead of coloured blocks or image after click instead of color boxes i tried to find out some functions and i don't have time casuse i been working mn my college project work also it was a little challenging to change cause i checked that online and would be working on that if i have some additional time,Other than that when styling the html elements differentlu from the given directions i felt a little challenging as even i worked on them in past as it would be better if we change the look user experience.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[I did and am working on web development projects they are very creative and while working on web development i thought it would be more easier if the packages would include all the variations and styling indstead of checking them and importing new packages to make it way better by including them into the files.I also felt that stying should be more feasible and easy so that there would be no confusion while making different styling options.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[I would have surely completed the on click color change to image and i would also have included the audio files instead of some sound frequencies.Also i would make the game with more moves and then make the previous and best scores visible so that it would be more interesting for people to play the game.]
 
 
 
@@ -58,7 +59,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Venkateswarlu Tanneru]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
