@@ -32,7 +32,7 @@ The following **optional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 (https://drive.google.com/file/d/1nw-crm-Bd3sugxvOT_xO3rRbfJMWEImY/view?usp=sharing)
-![](gif2-link-here)
+(https://imgur.com/a/VEsLjNR)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
